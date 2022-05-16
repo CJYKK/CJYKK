@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm CJYKK, Enjoying Python and C++ programming.
 
 At the same time, I also translated many projects, working on Simplified Chinese!
